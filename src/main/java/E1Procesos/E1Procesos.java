@@ -1,3 +1,5 @@
+package E1Procesos;
+
 import java.io.IOException;
 
 public class E1Procesos {
